@@ -1,1 +1,5 @@
-# srcCPRE381
+# Project 1 from Computer Organization and Assembly Level Programming 
+
+This implemented a single cycle MIPS Processor. 
+We were able to complete this processor without any errors. 
+The schematic is shown in this repository called "Schematic"
